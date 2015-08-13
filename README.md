@@ -1,2 +1,5 @@
 # basic
+####lists. strings. 
+
+
 python
